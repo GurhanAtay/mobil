@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.arikod.uygulamaolusturucu" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Uygulama Oluşturucu</name>
+<widget id="com.epttavm.hgsyukle" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HGS Yükle</name>
     <description>
-        Arıkod Tek tıkla uygulama oluşturma yazılımı.
+        Kolayca HGS Yüklemesi
     </description>
-    <author email="info@arikod.com" href="http://arikod.com">
+    <author email="info@ehgsyukle.com" href="http://ehgsyukle.com">
       Arikod
     </author>
     <content src="index.html" />
@@ -18,7 +18,7 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <icon src="www/ari.jpg" />
+        <icon src="www/hgs.jpg" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
